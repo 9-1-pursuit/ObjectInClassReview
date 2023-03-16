@@ -1,6 +1,6 @@
 let fruits = ["apple", "orange", "apple", "pear", "apple", "banana", "orange"];
 // How many of each fruit are in the array
-
+//creating a dictionary for the number of items.
 function howMany(arr) {
   let obj = {};
 
